@@ -14,6 +14,16 @@ body {
     background-color: #fff;
 }
 
+button {
+    padding: .25rem .5rem;
+    margin: .25rem 0;
+    font-size: .625rem;
+    color: #fff;
+    background-color: #6c79db;
+    border: none;
+    border-radius: 1rem;
+}
+
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
